@@ -1,0 +1,5 @@
+<launch>
+	<node name="position_controller" pkg="interiit21" type="controller.py" output="screen"/>
+	<node name="attitude_controller" pkg="interiit21" type="Marker_detector.py" output="screen"/>
+	<node name="executer" pkg="interiit21" type="executer.py" output="screen"/>
+</launch>

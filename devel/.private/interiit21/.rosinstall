@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/aniket/catkin_ws/devel/.private/interiit21/setup.sh

@@ -1,0 +1,6 @@
+devel_space: /home/aniket/catkin_ws/devel
+install: false
+install_space: /home/aniket/catkin_ws/install
+profile: default
+source_space: /home/aniket/catkin_ws/src
+workspace: /home/aniket/catkin_ws

@@ -1,0 +1,8 @@
+In file included from [01m[K/home/aniket/catkin_ws/src/vitarana_drone/src/gazebo_edrone_propulsion.cpp:3:0[m[K:
+[01m[K/home/aniket/catkin_ws/src/vitarana_drone/include/vitarana_drone/gazebo_edrone_propulsion.h:24:10:[m[K [01;31m[Kfatal error: [m[Kvitarana_drone/prop_speed.h: No such file or directory
+ #include [01;31m[K"vitarana_drone/prop_speed.h"[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/gazebo_edrone_propulsion.dir/src/gazebo_edrone_propulsion.cpp.o] Error 1
+make[1]: *** [CMakeFiles/gazebo_edrone_propulsion.dir/all] Error 2
+make: *** [all] Error 2
